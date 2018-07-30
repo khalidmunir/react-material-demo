@@ -22,6 +22,7 @@ A codeSandbox is available to fork from at https://codesandbox.io/s/oo6n6vr969
 Otherwise clone this repo into a directory and issue the following commands.
 (assuming you have installed a recent version of node)
 
-> npm install 
-> npm start
+ npm install 
+
+ npm start
 
